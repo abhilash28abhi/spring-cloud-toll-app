@@ -10,4 +10,8 @@
 		c. Server sent: Means the server has finished processing and returns a response
 		d. Client received: Means end of the span, the client got the response
 	4. Tracer: It runs inside the production apps and creates these spans.
-		
+```
+
+#Request for generating tokens from our auth server
+
+![test](https://user-images.githubusercontent.com/11937857/47616522-dd4c5a00-dae3-11e8-8dcf-79f47e357476.JPG)
